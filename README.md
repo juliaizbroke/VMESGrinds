@@ -25,9 +25,9 @@ During the program run, each member will be assigned one day to:
 * Encourage to fully participate in 2 pilot runs.
 
 ## Program Plan
-1. **Sunday - 9 to 11 PM** (Theory + 1 or 2 problems) - 2 [2M]
-2. **Tuesday - 9 to 10 PM** (3 Problems) - 3 [3M]
-3. **Thursday - 9 to 10 PM** (2 Problems) + Interview review or guest speaker - 2 [1H + 1M]
+1. **Sunday - 9 to 11 PM** (Theory + 1 or 2 problems) 
+2. **Tuesday - 9 to 10 PM** (3 Problems) 
+3. **Thursday - 9 to 10 PM** (2 Problems) + Interview review or guest speaker
 
 ## Contributing Guidelines
 
