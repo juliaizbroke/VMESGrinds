@@ -90,13 +90,14 @@ During the program run, each member will be assigned one day to:
 
 Thanks to all the contributors who have helped with this project! 🎉
 
-| Contributor         |
-| ------------------- |
-| Bhone Pyae Kyaw     |
-| Myo Myat Min        |
-| Noel Paing Oak Soe  |
-| Thet Myat Noe Thwin |
-| Zwe La Pyae         |
+| Contributor         | GitHub Profile                                       |
+| ------------------- | ---------------------------------------------------- |
+| Bhone Pyae Kyaw     | [@BhonePyae-Kyaw](https://github.com/BhonePyae-Kyaw) |
+| juliaizbroke        | [@juliaizbroke](https://github.com/juliaizbroke)     |
+| Myo Myat Min        | [@MyoMyatMin](https://github.com/MyoMyatMin)         |
+| Noel Paing Oak Soe  | [@NoelPOS](https://github.com/NoelPOS)               |
+| Thet Myat Noe Thwin | [@juliaizbroke](https://github.com/juliaizbroke)     |
+| Zwe La Pyae         | [@ZweLaPyae](https://github.com/ZweLaPyae)           |
 
 ## Contributing Guidelines
 
