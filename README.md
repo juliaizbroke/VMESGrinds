@@ -93,7 +93,6 @@ Thanks to all the contributors who have helped with this project! 🎉
 | Contributor         | GitHub Profile                                       |
 | ------------------- | ---------------------------------------------------- |
 | Bhone Pyae Kyaw     | [@BhonePyae-Kyaw](https://github.com/BhonePyae-Kyaw) |
-| juliaizbroke        | [@juliaizbroke](https://github.com/juliaizbroke)     |
 | Myo Myat Min        | [@MyoMyatMin](https://github.com/MyoMyatMin)         |
 | Noel Paing Oak Soe  | [@NoelPOS](https://github.com/NoelPOS)               |
 | Thet Myat Noe Thwin | [@juliaizbroke](https://github.com/juliaizbroke)     |
