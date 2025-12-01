@@ -1,33 +1,90 @@
 # VMES Grinds - Coding Problem Solving Program
 
 ## Description
+
 VMES grinds is a program for us to reconnect with problem solving skills in coding and to get the most out of our collaborative effort.
 
 ## Structure
+
 During the program run, each member will be assigned one day to:
-* Find a problem 
-* Solve
-* Prepare the theoretical background (intuition, how to solve it, how the solution was optimised etc)
-* Explain it back to the team
-* Share the resources - canva, github
+
+- Find a problem
+- Solve
+- Prepare the theoretical background (intuition, how to solve it, how the solution was optimised etc)
+- Explain it back to the team
+- Share the resources - canva, github
 
 ## Expected Outcome from the Program
-* To prepare us for the future interview
-* To improve explanation skills
-* To refresh our knowledge with collaborative effort
+
+- To prepare us for the future interview
+- To improve explanation skills
+- To refresh our knowledge with collaborative effort
 
 ## Current Direction
-* Currently, we are in pilot stage, decided to grow beyond.
-* We will start off with 5 pilot runs.
-* Start with 4 easy, 2 medium and 1 hard problem for each run.
+
+- Currently, we are in pilot stage, decided to grow beyond.
+- We will start off with 5 pilot runs.
+- Start with 4 easy, 2 medium and 1 hard problem for each run.
 
 ## Commitment
-* Encourage to fully participate in 2 pilot runs.
+
+- Encourage to fully participate in 2 pilot runs.
 
 ## Program Plan
-1. **Sunday - 9 to 11 PM** (Theory + 1 or 2 problems) 
-2. **Tuesday - 9 to 10 PM** (3 Problems) 
+
+1. **Sunday - 9 to 11 PM** (Theory + 1 or 2 problems)
+2. **Tuesday - 9 to 10 PM** (3 Problems)
 3. **Thursday - 9 to 10 PM** (2 Problems) + Interview review or guest speaker
+
+## Completed Problems
+
+### Week 1 (7 Problems)
+
+| #   | Problem                                                                                   | Difficulty | Topics               |
+| --- | ----------------------------------------------------------------------------------------- | ---------- | -------------------- |
+| 1   | [Add Strings](./week1/AddStrings/)                                                        | Easy       | Math, String         |
+| 2   | [Merge Strings Alternately](./week1/MergeStringAlt/)                                      | Easy       | Two Pointers, String |
+| 3   | [Island Perimeter](./week1/island-perimeter/)                                             | Easy       | Array, Matrix        |
+| 4   | [Longest Common Prefix](./week1/longest-common-prefix/)                                   | Easy       | String               |
+| 5   | [Count Ways to Group Overlapping Ranges](./week1/count-ways-to-group-overlapping-ranges/) | Medium     | Array, Sorting       |
+| 6   | [Remove Duplicates from Sorted Array](./week1/remove-duplicates-from-sorted-array/)       | Easy       | Array, Two Pointers  |
+| 7   | [String to Integer (atoi)](<./week1/string-to-integer-(atoi)/>)                           | Medium     | String               |
+
+### Week 2 (6 Problems)
+
+| #   | Problem                                                                                               | Difficulty | Topics                             |
+| --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------- |
+| 1   | [Best Poker Hand](./week2/BestPokerHand/)                                                             | Easy       | Array, Hash Table                  |
+| 2   | [Happy Number](./week2/HappyNumber/)                                                                  | Easy       | Hash Table, Math                   |
+| 3   | [Longest Substring Without Repeating Characters](./week2/LongestSubstringWithoutRepeatingCharacters/) | Medium     | Hash Table, String, Sliding Window |
+| 4   | [Repeated DNA Sequences](./week2/RepeatedDNASequence/)                                                | Medium     | Hash Table, String, Sliding Window |
+| 5   | [Substring with Concatenation of All Words](./week2/SubstringwithConcatenationofAllWords/)            | Hard       | Hash Table, String, Sliding Window |
+| 6   | [Word Pattern](./week2/WordPattern/)                                                                  | Easy       | Hash Table, String                 |
+
+### Week 3 (6 Problems)
+
+| #   | Problem                                                                                           | Difficulty | Topics                               |
+| --- | ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ |
+| 1   | [Best Time to Buy and Sell Stock Using Strategy](./week3/BestTimeToBuyAndSellStockUsingStrategy/) | Medium     | Array, Dynamic Programming           |
+| 2   | [Boats to Save People](./week3/BoatsToSavePeople/)                                                | Medium     | Array, Two Pointers, Sorting, Greedy |
+| 3   | [Find K-th Smallest Pair Distance](./week3/FindK-thSmallestPairDistance/)                         | Hard       | Array, Binary Search, Sorting        |
+| 4   | [Longest Even Odd Subarray With Threshold](./week3/LongestEvenOddSubarrayWithThreshold/)          | Easy       | Array, Sliding Window                |
+| 5   | [Long Pressed Name](./week3/LongPressedName/)                                                     | Easy       | Two Pointers, String                 |
+| 6   | [Maximum Average Subarray I](./week3/MaximumAverageSubarrayI/)                                    | Easy       | Array, Sliding Window                |
+
+### Week 4 (1 Problem)
+
+| #   | Problem                                       | Difficulty | Topics                       |
+| --- | --------------------------------------------- | ---------- | ---------------------------- |
+| 1   | [Last Stone Weight](./week4/LastStoneWeight/) | Easy       | Array, Heap (Priority Queue) |
+
+---
+
+**Total Problems Completed: 20**
+
+- Easy: 13
+- Medium: 5
+- Hard: 2
 
 ## Contributing Guidelines
 
