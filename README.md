@@ -38,7 +38,7 @@ During the program run, each member will be assigned one day to:
 
 ## Completed Problems
 
-### Week 1 (7 Problems)
+### Week 1 (8 Problems)
 
 | #   | Problem                                                                                   | Difficulty | Topics               | Contributor         |
 | --- | ----------------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------- |
@@ -49,8 +49,9 @@ During the program run, each member will be assigned one day to:
 | 5   | [Count Ways to Group Overlapping Ranges](./week1/count-ways-to-group-overlapping-ranges/) | Medium     | Array, Sorting       | Myo Myat Min        |
 | 6   | [Remove Duplicates from Sorted Array](./week1/remove-duplicates-from-sorted-array/)       | Easy       | Array, Two Pointers  | Bhone Pyae Kyaw     |
 | 7   | [String to Integer (atoi)](<./week1/string-to-integer-(atoi)/>)                           | Medium     | String               | Zwe La Pyae         |
+| 8   | [Trapping Rain Water](./week1/TrappinTheRainWater/)                                       | Hard       | Array, Two Pointers, Stack | Moe Myint Mo San    |
 
-### Week 2 (6 Problems)
+### Week 2 (7 Problems)
 
 | #   | Problem                                                                                               | Difficulty | Topics                             | Contributor         |
 | --- | ----------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------- | ------------------- |
@@ -60,8 +61,9 @@ During the program run, each member will be assigned one day to:
 | 4   | [Repeated DNA Sequences](./week2/RepeatedDNASequence/)                                                | Medium     | Hash Table, String, Sliding Window | Bhone Pyae Kyaw     |
 | 5   | [Substring with Concatenation of All Words](./week2/SubstringwithConcatenationofAllWords/)            | Hard       | Hash Table, String, Sliding Window | Myo Myat Min        |
 | 6   | [Word Pattern](./week2/WordPattern/)                                                                  | Easy       | Hash Table, String                 | Bhone Pyae Kyaw     |
+| 7   | [Group Anagrams](./week2/GroupAnagrams/)                                                              | Medium     | Array, Hash Table, String, Sorting | Moe Myint Mo San    |
 
-### Week 3 (6 Problems)
+### Week 3 (7 Problems)
 
 | #   | Problem                                                                                           | Difficulty | Topics                               | Contributor        |
 | --- | ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ | ------------------ |
@@ -71,19 +73,22 @@ During the program run, each member will be assigned one day to:
 | 4   | [Longest Even Odd Subarray With Threshold](./week3/LongestEvenOddSubarrayWithThreshold/)          | Easy       | Array, Sliding Window                | Zwe La Pyae        |
 | 5   | [Long Pressed Name](./week3/LongPressedName/)                                                     | Easy       | Two Pointers, String                 | Zwe La Pyae        |
 | 6   | [Maximum Average Subarray I](./week3/MaximumAverageSubarrayI/)                                    | Easy       | Array, Sliding Window                | Myo Myat Min       |
+| 7   | [Longest Even Odd Subarray With Threshold](./week3/Longest_Even_Odd_Subarray+Threshold[Lucas]/)   | Easy       | Array, Sliding Window                | Moe Myint Mo San   |
 
-### Week 4 (1 Problem)
+### Week 4 (3 Problems)
 
 | #   | Problem                                       | Difficulty | Topics                       | Contributor     |
 | --- | --------------------------------------------- | ---------- | ---------------------------- | --------------- |
-| 1   | [Last Stone Weight](./week4/LastStoneWeight/) | Easy       | Array, Heap (Priority Queue) | Bhone Pyae Kyaw |
+| 1   | [Last Stone Weight](./week4/LastStoneWeight/)                         | Easy       | Array, Heap (Priority Queue) | Bhone Pyae Kyaw   |
+| 2   | [Minimum Amount of Time to Fill Cups](./week4/MinimumAmountOfTimeToFillCups/) | Easy       | Array, Greedy, Heap          | -                 |
+| 3   | [Task Scheduler](<./week4/Task Scheduler/>)                           | Medium     | Array, Hash Table, Greedy, Heap | Moe Myint Mo San  |
 
 ---
 
-**Total Problems Completed: 20**
+**Total Problems Completed: 24**
 
-- Easy: 13
-- Medium: 5
+- Easy: 15
+- Medium: 7
 - Hard: 2
 
 ## Contributors
