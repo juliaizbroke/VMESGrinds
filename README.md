@@ -99,10 +99,10 @@ Thanks to all the contributors who have helped with this project! 🎉
 | ------------------- | ---------------------------------------------------- |
 | Bhone Pyae Kyaw     | [@BhonePyae-Kyaw](https://github.com/BhonePyae-Kyaw) |
 | Myo Myat Min        | [@MyoMyatMin](https://github.com/MyoMyatMin)         |
+| Moe Myint Mo San    | [@MoeMyintMoSan](https://github.com/MoeMyintMoSan)   |
 | Noel Paing Oak Soe  | [@NoelPOS](https://github.com/NoelPOS)               |
 | Thet Myat Noe Thwin | [@juliaizbroke](https://github.com/juliaizbroke)     |
 | Zwe La Pyae         | [@ZweLaPyae](https://github.com/ZweLaPyae)           |
-| Moe Myint Mo San    | [@MoeMyintMoSan](https://github.com/MoeMyintMoSan)   |
 
 ## Contributing Guidelines
 
