@@ -97,6 +97,7 @@ Thanks to all the contributors who have helped with this project! 🎉
 | Noel Paing Oak Soe  | [@NoelPOS](https://github.com/NoelPOS)               |
 | Thet Myat Noe Thwin | [@juliaizbroke](https://github.com/juliaizbroke)     |
 | Zwe La Pyae         | [@ZweLaPyae](https://github.com/ZweLaPyae)           |
+| Moe Myint Mo San    | [@MoeMyintMoSan](https://github.com/MoeMyintMoSan)   |
 
 ## Contributing Guidelines
 
