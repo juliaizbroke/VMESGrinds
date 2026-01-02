@@ -40,15 +40,15 @@ During the program run, each member will be assigned one day to:
 
 ### Week 1 (8 Problems)
 
-| #   | Problem                                                                                   | Difficulty | Topics               | Contributor         |
-| --- | ----------------------------------------------------------------------------------------- | ---------- | -------------------- | ------------------- |
-| 1   | [Add Strings](./week1/AddStrings/)                                                        | Easy       | Math, String         | Thet Myat Noe Thwin |
-| 2   | [Island Perimeter](./week1/island-perimeter/)                                             | Easy       | Array, Matrix        | Noel Paing Oak Soe  |
-| 3   | [Longest Common Prefix](./week1/longest-common-prefix/)                                   | Easy       | String               | Bhone Pyae Kyaw     |
-| 4   | [Merge Strings Alternately](./week1/MergeStringAlt/)                                      | Easy       | Two Pointers, String | Thet Myat Noe Thwin |
-| 5   | [Remove Duplicates from Sorted Array](./week1/remove-duplicates-from-sorted-array/)       | Easy       | Array, Two Pointers  | Bhone Pyae Kyaw     |
-| 6   | [Count Ways to Group Overlapping Ranges](./week1/count-ways-to-group-overlapping-ranges/) | Medium     | Array, Sorting       | Myo Myat Min        |
-| 7   | [String to Integer (atoi)](<./week1/string-to-integer-(atoi)/>)                           | Medium     | String               | Zwe La Pyae         |
+| #   | Problem                                                                                   | Difficulty | Topics                     | Contributor         |
+| --- | ----------------------------------------------------------------------------------------- | ---------- | -------------------------- | ------------------- |
+| 1   | [Add Strings](./week1/AddStrings/)                                                        | Easy       | Math, String               | Thet Myat Noe Thwin |
+| 2   | [Island Perimeter](./week1/island-perimeter/)                                             | Easy       | Array, Matrix              | Noel Paing Oak Soe  |
+| 3   | [Longest Common Prefix](./week1/longest-common-prefix/)                                   | Easy       | String                     | Bhone Pyae Kyaw     |
+| 4   | [Merge Strings Alternately](./week1/MergeStringAlt/)                                      | Easy       | Two Pointers, String       | Thet Myat Noe Thwin |
+| 5   | [Remove Duplicates from Sorted Array](./week1/remove-duplicates-from-sorted-array/)       | Easy       | Array, Two Pointers        | Bhone Pyae Kyaw     |
+| 6   | [Count Ways to Group Overlapping Ranges](./week1/count-ways-to-group-overlapping-ranges/) | Medium     | Array, Sorting             | Myo Myat Min        |
+| 7   | [String to Integer (atoi)](<./week1/string-to-integer-(atoi)/>)                           | Medium     | String                     | Zwe La Pyae         |
 | 8   | [Trapping Rain Water](./week1/TrappinTheRainWater/)                                       | Hard       | Array, Two Pointers, Stack | Moe Myint Mo San    |
 
 ### Week 2 (7 Problems)
@@ -65,32 +65,52 @@ During the program run, each member will be assigned one day to:
 
 ### Week 3 (7 Problems)
 
-| #   | Problem                                                                                           | Difficulty | Topics                               | Contributor        |
-| --- | ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ | ------------------ |
-| 1   | [Long Pressed Name](./week3/LongPressedName/)                                                     | Easy       | Two Pointers, String                 | Zwe La Pyae        |
-| 2   | [Longest Even Odd Subarray With Threshold](./week3/LongestEvenOddSubarrayWithThreshold/)          | Easy       | Array, Sliding Window                | Zwe La Pyae        |
-| 3   | [Longest Even Odd Subarray With Threshold](./week3/Longest_Even_Odd_Subarray+Threshold[Lucas]/)   | Easy       | Array, Sliding Window                | Moe Myint Mo San   |
-| 4   | [Maximum Average Subarray I](./week3/MaximumAverageSubarrayI/)                                    | Easy       | Array, Sliding Window                | Myo Myat Min       |
-| 5   | [Best Time to Buy and Sell Stock Using Strategy](./week3/BestTimeToBuyAndSellStockUsingStrategy/) | Medium     | Array, Dynamic Programming           | Noel Paing Oak Soe |
-| 6   | [Boats to Save People](./week3/BoatsToSavePeople/)                                                | Medium     | Array, Two Pointers, Sorting, Greedy | Bhone Pyae Kyaw    |
+| #   | Problem                                                                                           | Difficulty | Topics                               | Contributor         |
+| --- | ------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ | ------------------- |
+| 1   | [Long Pressed Name](./week3/LongPressedName/)                                                     | Easy       | Two Pointers, String                 | Zwe La Pyae         |
+| 2   | [Longest Even Odd Subarray With Threshold](./week3/LongestEvenOddSubarrayWithThreshold/)          | Easy       | Array, Sliding Window                | Zwe La Pyae         |
+| 3   | [Longest Even Odd Subarray With Threshold](./week3/Longest_Even_Odd_Subarray+Threshold[Lucas]/)   | Easy       | Array, Sliding Window                | Moe Myint Mo San    |
+| 4   | [Maximum Average Subarray I](./week3/MaximumAverageSubarrayI/)                                    | Easy       | Array, Sliding Window                | Myo Myat Min        |
+| 5   | [Best Time to Buy and Sell Stock Using Strategy](./week3/BestTimeToBuyAndSellStockUsingStrategy/) | Medium     | Array, Dynamic Programming           | Noel Paing Oak Soe  |
+| 6   | [Boats to Save People](./week3/BoatsToSavePeople/)                                                | Medium     | Array, Two Pointers, Sorting, Greedy | Bhone Pyae Kyaw     |
 | 7   | [Find K-th Smallest Pair Distance](./week3/FindK-thSmallestPairDistance/)                         | Hard       | Array, Binary Search, Sorting        | Thet Myat Noe Thwin |
 
-### Week 4 (4 Problems)
+### Week 4 (6 Problems)
 
-| #   | Problem                                       | Difficulty | Topics                       | Contributor     |
-| --- | --------------------------------------------- | ---------- | ---------------------------- | --------------- |
-| 1   | [Last Stone Weight](./week4/LastStoneWeight/)                         | Easy       | Array, Heap (Priority Queue) | Bhone Pyae Kyaw   |
-| 2   | [Minimum Amount of Time to Fill Cups](./week4/MinimumAmountOfTimeToFillCups/) | Easy       | Array, Greedy, Heap          | -                 |
-| 4   | [Task Scheduler](<./week4/Task Scheduler/>)                           | Medium     | Array, Hash Table, Greedy, Heap | Moe Myint Mo San  |
-| 3   | [Final Array State After K Multiplication Operations II](./week4/FinalArrayStateAfterKMultiplicationOperationsII/) | Hard     | Heap, Math, Simulation      | Zwe La Pyae        |
+| #   | Problem                                                                                                            | Difficulty | Topics                           | Contributor      |
+| --- | ------------------------------------------------------------------------------------------------------------------ | ---------- | -------------------------------- | ---------------- |
+| 1   | [Last Stone Weight](./week4/LastStoneWeight/)                                                                      | Easy       | Array, Heap (Priority Queue)     | Bhone Pyae Kyaw  |
+| 2   | [Minimum Amount of Time to Fill Cups](./week4/MinimumAmountOfTimeToFillCups/)                                      | Easy       | Array, Greedy, Heap              | -                |
+| 3   | [Taking Gifts From The Richest Pile](./week4/TakingGiftsFromTheRichestPile/)                                       | Easy       | Array, Heap, Simulation          | -                |
+| 4   | [Top K Frequent](./week4/TopKFrequent/)                                                                            | Medium     | Array, Hash Table, Heap, Sorting | -                |
+| 5   | [Task Scheduler](<./week4/Task Scheduler/>)                                                                        | Medium     | Array, Hash Table, Greedy, Heap  | Moe Myint Mo San |
+| 6   | [Final Array State After K Multiplication Operations II](./week4/FinalArrayStateAfterKMultiplicationOperationsII/) | Hard       | Heap, Math, Simulation           | Zwe La Pyae      |
+
+### Week 5 (5 Problems)
+
+| #   | Problem                                                                       | Difficulty | Topics                        | Contributor      |
+| --- | ----------------------------------------------------------------------------- | ---------- | ----------------------------- | ---------------- |
+| 1   | [Make The String Great](./week5/MakeTheStringGreat/)                          | Easy       | String, Stack                 | -                |
+| 2   | [Valid Parentheses](./week5/ValidParentheses/)                                | Easy       | String, Stack                 | -                |
+| 3   | [Final Prices With Special Discount](./week5/FinalPricesWithSpecialDiscount/) | Easy       | Array, Stack, Monotonic Stack | Moe Myint Mo San |
+| 4   | [Daily Temperatures](./week5/DailyTemperatures/)                              | Medium     | Array, Stack, Monotonic Stack | -                |
+| 5   | [Evaluate Reverse Polish Notation](./week5/EvaluateReversePolishNotation/)    | Medium     | Array, Math, Stack            | -                |
+
+### Week 6 (3 Problems)
+
+| #   | Problem                                                                | Difficulty | Topics                        | Contributor      |
+| --- | ---------------------------------------------------------------------- | ---------- | ----------------------------- | ---------------- |
+| 1   | [Find If Path Exists In Graph](./week6/FindIfPathExistsInGraph/)       | Easy       | Graph, BFS, DFS, Union Find   | Moe Myint Mo San |
+| 2   | [Find The Town Judge](./week6/FindTheTownJudge/)                       | Easy       | Array, Hash Table, Graph      | Moe Myint Mo San |
+| 3   | [All Paths From Source To Target](./week6/AllPathsFromSourceToTarget/) | Medium     | Graph, DFS, BFS, Backtracking | -                |
 
 ---
 
-**Total Problems Completed: 26**
+**Total Problems Completed: 40**
 
-- Easy: 14
-- Medium: 8
-- Hard: 4
+- Easy: 22
+- Medium: 13
+- Hard: 5
 
 ## Contributors
 
